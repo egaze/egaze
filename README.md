@@ -17,7 +17,7 @@ Welcome to the GitHub profile of an aspiring software engineer!
 # Get in Touch:
 Various links to my socials are in my profile, including my email, LinkedIn, Leetcode etc.
 
-Feel free to explore my profile and offer suggestions, or just say hi. 👋🏽
+- Feel free to explore my profile and offer suggestions, or just say hi. 👋🏽
 <!---
 egaze/egaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
