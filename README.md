@@ -4,13 +4,16 @@
 Welcome to the GitHub profile of an aspiring software engineer!
 
 # About Me:
-- 💡 I like to solve complex problems and finding effecient solutions to them.
-- 🌱 Currently learning Data Structures and Algorithms in Python.
-- 💞️ I love to collaborate on projects and learn from others through teamwork.
+- 📚 I am currently in my sophomore year of undergrad in Computer Engineering
+- 💡 I like to solve problems and finding effecient solutions to them.
+- 🌱 Currently learning Java.
+- 🤝🏾 I love to collaborate on projects and learn from others through teamwork.
 - 🚀 My main goal is to learn, grow and be significantly impactful in the field of software development.
 
 # What You'll Find in my GitHub Profile:
+- 🔍 My journey of exploration in different programming languages
 - 💻 The implementation of some data structures and algorithms I learnt in Python🐍
+- 💡 Mini-projects that I have worked on
 - ✅ My leetcode problem solutions
 - 🧠 Problem-solving algorithm exploration
 
