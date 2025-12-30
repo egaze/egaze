@@ -6,7 +6,7 @@ Welcome to the GitHub profile of an aspiring software engineer!
 # About Me:
 - 📚 I am currently in my sophomore year of undergrad in Computer Engineering
 - 💡 I like to solve problems and finding effecient solutions to them.
-- 🌱 Currently learning Java.
+- 🌱 Currently learning App Development in React.
 - 🤝🏾 I love to collaborate on projects and learn from others through teamwork.
 - 🚀 My main goal is to learn, grow and be significantly impactful in the field of software development.
 
